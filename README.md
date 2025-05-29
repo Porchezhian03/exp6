@@ -22,7 +22,7 @@ To systematically address a UX problem (e.g., hospital appointment booking) by g
    Map user/task flows with standard symbols (start, decision, action) to visualize steps and choices.
 
 ## OUTPUT
-[exp6.pdf](https://github.com/user-attachments/files/20505497/exp6.pdf)
+https://lms2.cse.saveetha.in/pluginfile.php/53986/assignsubmission_file/submission_files/157879/Lab_Task_6.pdf?forcedownload=1
 
 ## RESULT
 
